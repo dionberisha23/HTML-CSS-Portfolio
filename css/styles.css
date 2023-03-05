@@ -1,0 +1,127 @@
+.top-container {
+    width: 100%;
+    background-color: #EDF1D6;
+    text-align: center;
+    padding-top: 300px;
+    
+    
+}
+.middle-container {
+    width: 100%;
+    background-color: #EDF1D6;
+    text-align: center;
+    padding: 0px;
+    margin-top: 0;
+    
+}
+.bottom-container {
+    width: 100%;
+    background-color: #9DC08B;
+    text-align: center;
+    padding: 30px 0 30px 0;
+    
+
+    
+}
+body {
+    margin: 0;
+    background-color: #EDF1D6;
+}
+
+h1 {
+    margin: 0; 
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 400%;
+    color: #40513B;
+    
+}
+p{
+    color: #40513B;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px;
+
+}
+h2{
+    color: #40513B;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #40513B;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.cloud1 {
+    position: absolute;
+    left: 70%;
+    top: 20%;
+}
+.cloud2 {
+    position: relative;
+    right: 40%;
+    top: 120%;
+}
+
+.mountain {
+    width: 100%;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+.skills-foto {
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+hr {
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: #9DC08B;
+    width: 8%;
+    
+}
+.btn {
+    width: 50px;
+    height: 20px;
+    background-color: #40513B;
+    padding: 5px 10px;
+    color: #EDF1D6;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px; 
+
+}
+.btn:hover {
+    width: 50px;
+    height: 20px;
+    background-color: #EDF1D6;
+    padding: 5px 10px;
+    color: #40513B;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px; 
+    border-style: solid;
+    border-color: #40513B;
+}
+
+.contact-me {
+    margin: 50px;
+}
+
+.footer-link {
+    padding: 15px;
+    text-decoration: none;
+    color: #40513B;
+    font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover {
+    padding: 15px;
+    text-decoration: none;
+    color: #EDF1D6;
+    font-family: 'Montserrat', sans-serif;
+}
+.copyright {
+    font-size: 80%;
+    color: #EDF1D6;
+}
